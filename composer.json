@@ -1,0 +1,14 @@
+{
+  "name": "david-gs/sitemap-import",
+  "description": "Import XML sitemap",
+  "keywords": ["import", "sitemap", "xml"],
+  "authors": [
+    {
+      "name": "David GS",
+      "email": "dl@gate-software.com"
+    }
+  ],
+  "autoload": {
+    "files": ["src/SitemapImport.php"]
+  }
+}
